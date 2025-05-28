@@ -7,7 +7,7 @@ Aspiring **Python Backend Developer** | Django | REST APIs | Always Learning �
 - 🔭 Currently working on: Full-stack Django apps & REST APIs
 - 🌱 Learning: Django Rest Framework, FastAPI, Docker, Deployment
 - 💬 Ask me about: Python, Django, backend dev, web apps
-- 📫 How to reach me: [Your Email or LinkedIn link here]
+- 📫 How to reach me:  Email- vineetchauhan9721@gmail.com         Linked In Profile- https://www.linkedin.com/in/vineet-kumar-chauhan-90a92024b/
 - ⚡ Fun fact: I’m building projects every week & love clean code!
 
 ---
